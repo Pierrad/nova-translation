@@ -3,3 +3,4 @@
 /.idea
 composer.lock
 package-lock.json
+auth.json
